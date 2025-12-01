@@ -1,0 +1,2 @@
+# termux_flashtool
+一个适用于termux/mt扩展包环境运行的刷机程序支持欧加全自动刷入全量包，自动解压mirom并刷入。
